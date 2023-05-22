@@ -11,7 +11,7 @@
     black 3px,
     transparent 3px
   );
-animation: rotate-animation 10s infinite linear;	
+animation: rotate-animation 2s infinite linear;	
 }
 @keyframes rotate-animation {
 	0% {
